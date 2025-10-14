@@ -113,11 +113,4 @@
 
 ---
 
-## ✅ Next Steps
 
-Run the following commands to push your documentation updates:
-
-```bash
-git add README.md
-git commit -m "Added detailed README with banner, table of contents, and full documentation"
-git push origin main
